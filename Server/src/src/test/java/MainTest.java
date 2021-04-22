@@ -4,5 +4,6 @@ public class MainTest {
      */
     void someTest(){
         System.out.println("No code");
+        System.out.println("Need to push some code");
     }
 }
